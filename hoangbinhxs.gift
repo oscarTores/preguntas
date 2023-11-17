@@ -1,0 +1,38 @@
+Como se crea un entorno con miniconda{
+=conda create --name nombreEntorno
+~conda --name create nombreEntorno
+~conda -name create nombreEntorno
+~conda create -n nombreEntorno
+}
+
+como se activa un entorno en conda{
+~conda -a nombreEntorno
+=conda activate nombreEntorno
+~conda -a env nombreEntorno
+~conda activate -env nombreEntorno
+}
+
+Como se elimina un entorno en conda {
+
+~conda remove --name nombreEntorno
+~conda env rm nombreEntorno
+~conda remove nombreEntorno
+=conda env remove --name nombreEntorno
+
+}
+
+Como se mira los entornos creados{
+~conda ls
+~conda -env ls
+=conda env list
+~conda -list
+}
+
+Como se crea un entorno con una version de python concreta{
+
+~conda create --n nombreEntorno py=versionPython
+~conda create --name nombreEntorno py=versionPython
+=conda create --name nombreEntorno python=versionPython
+~conda --name nombreEntorno create py=versionPython
+
+}
