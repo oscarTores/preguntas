@@ -1,0 +1,24 @@
+Cal das seguintes servirá en Conda para crear unha contorna bigdata{
+=conda create -n bigdata python=3.8 numpy
+~cd create -n bigdata python=3.8 numpy
+~conda install -n bigdata python=3.8 numpy
+~create -n bigdata python=3.8 numpy
+}
+
+Que lle falta ao seguinte comando para borrar unha contorna: conda {=env} remove -n bigdata
+
+A taxa de transferencia en redes:{
+=Expresase en múltiplos de bits/segundo.
+~É o mesmo velocidade de subida que de baixada.
+~Expresase en Herzios.
+~De disco a disco o habitual é pasar de GB/hora.
+}
+
+Cal das seguintes é correcta {
+~Non existen procesadores con máis dun core.
+=A un core lle poden chegar varios fíos de execución.
+~Cada core so ten unha unidad funcional.
+~Cada instruccion executada por un procesador tarda sempre o mesmo número de ciclos.
+}
+
+A medida que mide a frecuencia de un procesador(no Sistema Internacional) é o {=hercio}
