@@ -1,0 +1,29 @@
+- Como se crea unha contorna de conda co nome bigdata con la version de python 3.8 y pandas {=conda create -n bigdata python=3.8 pandas}
+
+- Cal dos seguintes comandos permite a redireccion de portos{
+
+=ssh teuser@10.133.X.X -L 1337:172.17.X.X:3306
+~ssh teuser@10.133.X.X 8080 -L 127.0.0.1:3306
+~ssh teuser@10.133.X.X 127.0.01:8080 -L 127.0.0.1:3306
+~ssh teuser@10.133.X.X-L 127.0.01:8080 127.0.0.1:3306
+}
+
+- Cales son as 3 V do big data {
+
+=Volume, Variedade, Velocidad
+~Volume, Veracidade, Valor
+~Volume, Veracidade, Variedade
+~Volume, Veracidade, Velocidade
+}
+
+- Pon a palabra que falta, "A unidade Zib, chamase ___"{=zebibyte}
+
+- Como se crea unha clave ssh mediante a consola de windows{=ssh-keygen}
+
+- Cual es el comando para subir los cambios hechos en local al repositorio de Github{
+
+=git push
+~git commit
+~git pull
+~git add
+}
