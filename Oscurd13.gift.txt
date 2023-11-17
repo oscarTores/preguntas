@@ -1,0 +1,23 @@
+Cuando hablamos de big data podriamos reducir la definicion a 3 V principales ¿Cuales serian?{
+=Volumen, Variedad, Velocidad
+~Volumen, Verticalidad, Vencibilidad
+~Volumen, Vigilancia, Versatilidad
+}
+
+Si quisieramos ver el listado de Entornos de conda que tenemos instalado ¿Que comando usariamos?{
+=conda env list
+~conda ls
+~conda s -la
+}
+
+En caso de querer crear un entorno de conda que utilice una version de python en concreto ¿Que comando deberiamos utilizar?{
+=conda create --name "nombre" python = "version a utilizar(ej: 3.8)"
+~conda create --name "nombre" python : "version a utilizar(ej: 3.8)"
+~conda create -n "nombre" python "version a utilizar(ej: 3.8)"
+}
+
+Esta unidad "MiB" recibe por nombre _____ {=Mebibyte}
+
+Cual es el comando que se utiliza en git para añadir todos los archivos del directorio actual al control de versiones{=git add .}
+
+
