@@ -1,0 +1,23 @@
+﻿1. Diferenza de valor entre Mb,MB y MiB{
+El valor es de un Mb es de {=1000 bits =mil bits}, el de un MB es de {=1000 bytes =mil bytes} y un MiB vale {1024 bytes =mil vintecatro bytes}
+}
+
+2. Lista de pasos a seguir para hacer un push en Git por consola{
+Poñendo o exemplo de que acabamos de crear un arquibo que queremos subir a un repositorio github ao que xa estamos conectamos debemos de: usar o comando {=git add} co archivo en cuestión, realizar un {=git commit} para subilo ao repositorio local e por último {=git push} para subilo ao repositorio remoto 
+}
+
+3. Cales son as duas opcións para configurar github{
+Opción1: {=chave ssh =clave ssh} . Opción 2: {=token =tokens}
+}
+
+4. Pregunta de elixir opción: Características de unha conexión de tipo Nat{
+~Por defecto, router virtual opaco, o anfitrión (host) non ve o invitado(MV), o invitado non ve ao anfitrión, os invitados non poden verse entre si. hay conexión a internet
+=Por defecto, router virtual transparente, o anfitrión (host) non ve o invitado(MV), o invitado ve ao anfitrión, os invitados poden verse entre si. hay conexión a internet
+~Por defecto, router virtual transparente, o anfitrión (host) ve o invitado(MV), o invitado ve ao anfitrión, os invitados NON poden verse entre si. hay conexión a internet
+}
+
+5. Características de unha conexión de tipo rede Nat{
+=Rede privada propia de MV, router explícito e configurable, anfitrión conectase : reenvío de portos, hay conexión a internet
+~Rede pública propia de MV, router explícito e configurable, anfitrión conectase  : reenvío de portos, hay conexión a internet
+~Rede privada propia de MV, router explícito e NON configurable, anfitrión conectase: reenvío de portos, hay conexión a internet
+}
