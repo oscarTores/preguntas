@@ -1,0 +1,36 @@
+Cantos bits ten un byte{
+~4
+~1/8
+=8
+~16
+}
+
+Cal das seguentes memorias está máis próxima ó procesador?{
+~RAM
+~ROM
+=Cache
+~SSD
+}
+
+Para crear unha contorna nova en Conda utilizamos:{
+~conda install contornaNova python=3.8 
+~conda create env contornaNova python=3.8
+=conda create -n contornaNova python=3.8
+~conda install -n contornaNova python=3.8
+}
+
+En qué cartafol gardase por defecto a clave rsa?{
+=$HOME/.ssh
+~/Documentos/.ssh
+~usuario/ssh
+~/etc/.ssh
+}
+
+
+Qué comando utilizarías cada vez que te pos a traballar nun proxecto que xa está almacenado en GitHub?{
+~git commit https://github.com/usuario/proxecto.git
+~git push origin main
+=git pull
+~git add proxecto
+}
+
