@@ -1,0 +1,23 @@
+Diferenza entre NAT e Red Nat
+-Red Nat funciona coma un ____ (router) virtual nesa rede permitiendonos acceder aos dispositivos conectados nela según configuración dada mentras que NAT encargase de toda a configuración pero non vemos a máquina virtual
+
+Pasos para crear unha máquina en OpenStack
+#Conectamos a ___(ip) cesga
+#Entramos na páxina co noso usuario
+#Metemos a clave ___(ssh) que tenemos no dispositivo
+#Creamos unha instancia
+#Ao creala seleccionaremos os ___(recursos) da máquina e seleccionaremos que non se poda gardar o disco ao borrala
+#Esperamos a que poña running
+#E podremos conectar desde ssh coa ___(ip) e tendo a clave ssh
+
+Comando para conectar a unha máquina de openStack e reedirixirlo a x porto mediante ssh
+-ssh __(-D) puertoMAnfitriona cesgaxuser@IpMVirtual
+
+Comando para reedirixir un porto desde unha máquina creada en OpenStack a outro porto da máquina anfitriona desde ssh
+-ssh __(-L) PuertoMAnfitriona:localhost:PuertoMVirtual cesgaxuser@IpMVirtual
+
+Cal sería o comando para instalar jupyterlabs desde conda
+-conda install __ ____ (-c conda-forge) jupyterlab
+
+
+
