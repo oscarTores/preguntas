@@ -1,0 +1,25 @@
+﻿Preguntas examen:
+Qué opción de red escolles para realizar una redireción de portos en VirtualBox{
+=Red NAT
+~Controlador interno
+-Red en la nube
+}
+Con qué comando créase unha nova contorna en conda?{
+~conda create env nombreContorna
+=conda create -n nombre_Contorna
+~conda create env -name nombre_Contorna
+}
+Cáles son as 3 Vs do big data?{
+=Volume,Variedade,Velocidade
+~Volume ,Volatilidade, Valiente
+~Velocidade,Volatilidade ,Vistoso
+}
+Con que comando listanse as contornas creadas en conda{
+=conda env list
+~conda environment list
+~conda -e list
+}
+Como seleccionas unha contorna creada en conda
+=conda activate nombreContorna
+~conda select nombreContorna
+~conda select -n nombreContorna
