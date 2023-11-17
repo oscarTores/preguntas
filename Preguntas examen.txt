@@ -1,0 +1,24 @@
+1º pregunta)
+Unha __________________(=entorna virtual) é un ambiente que constituye una serie de directorios aislados de outros directorios do sistema, aunque sigan sendo parte deles. Esto ten moitas ventaxas pois, en primeiro lugar, non tendrías que ir cambiando a librería de un a outro programa o directorio.
+
+2º pregunta)
+Cáles dos seguintes tipos de redes non ten conexión a Internet?{
+~ NAT
+~ Rede NAT
+= Internal Network
+~ Bridged adapter
+}
+
+3º pregunta)
+Cambiar o bind-address a dirección IP _________(=0.0.0.0) permite que ca MV que estamos empregando poida escoitar outras direccións IP externas; e polo tanto, poder traballar con dispositivos externos.
+
+4º pregunta)
+Cál é o comando BASH que empregamos para listar os portos que temos actualmente abertos?{
+~netstat -atm
+~netstat ls
+~netstat .
+=netstat -atn
+}
+
+5º pregunta)
+A sentencia SQL _____________(=flush privileges;) é esencial para que unha vez creado un novo usuario en MySQL, se actualicen todas as tablas de privilexios e poder aplicar os cambios novos de privilexios que se lle atribuiron o novo usuario.
