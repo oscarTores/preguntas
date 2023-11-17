@@ -1,0 +1,39 @@
+1.Con que comando podemos actualizar PIP?
+
+^ python -l ensurepip --upgrade 
+
+= python3 -m pip install --upgrade pip
+
+^ python3 -m pip install 
+
+^ python -M ensurepip --upgrade
+
+
+2. Completa este comando: conda create -n _______ python=3.8 numpy
+
+=bigdata
+
+
+3. Cual de las siguientes palabras no es una de las 7 V´s de Big Data?
+
+^ Volume
+
+^ Velocidade
+
+= Virtualización
+
+^ Variedad
+
+4. Completa el siguiente comando de git: git remote ___ ______ git@github.com:jfsanchez/BDA.git
+
+= add origin
+
+5. Cual de las siguientes V´s no es de las 3 primeras V´s del Big Data?
+
+^ Volumen
+
+^ Variedad
+
+^ Velocidad
+
+= volatilidad
