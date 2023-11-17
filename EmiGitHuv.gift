@@ -1,0 +1,23 @@
+Cantos bits ten un byte? [
+= 8
+~ 1024
+~ 10^2
+~ Un byte non ten bits.
+]
+
+Un KB ou KiloByte son [=1000] bytes
+
+Un KiB son [=1024] bytes
+
+Comando que linux recomenda cada vez que queramos actualizar:[
+= sudo apt update
+~ sudo update
+~ sudo install update
+~ sudo update apt
+]
+
+Por qué importan os tamaños e transferencias?[
+~ Pola cuota (quota) que che dan para almacenar os datasets.
+~ Copias de seguridade
+= Duas respostas son correctas
+]
