@@ -1,0 +1,37 @@
+PREGUNTAS:
+
+
+Dentro de una Red Nat {
+=El anfitrión (host) no ve al invitado (MV)
+ ~invitado no ve al antitrión
+ ~invitados pueden verse entre si
+ ~nguna es correcta
+}
+
+Para crear usuario e conceder permisos a base de datos, cual es la correcta:{
+=CREATE USER 'usuario-a-crear'@'%' IDENTIFIED BY 'clave-abc123.';
+~CREATE USER 'usuario-a-crear''%' IDENTIFIED BY 'clave-abc123.';
+~CREATE USER 'usuario-a-crear'@'' IDENTIFIED BY 'clave-abc123.';
+~CREATE USER 'usuario-a-crear' and' IDENTIFIED BY 'clave-abc123.';
+}
+
+Para conceder permisos a base de datos:{
+=GRANT ALL PRIVILEGES ON base-de-datos.* TO 'usuario-a-crear'@'%';
+~GRANT ALL PRIVILEGES ON base-de-datos.* TO 'usuario-a-crear'@'';
+~GRANT ALL PRIVILEGES ON base-de-datos.* TO 'usuario-a-crear''%';
+~GRANT ALL PRIVILEGES ON base-de-datos.*  'usuario-a-crear'@'%'
+}
+
+
+Como crear un entorno en conda {
+=conda create -n bigdata python=3.8 numpy
+~conda create  bigdata python=3.8 numpy
+~conda create -n bigdata python-3.8 numpy
+~conda create -n bigdata python=3.8 
+}
+
+Como borrar un servidor en git {
+=git remote remove origin
+~git remove remote origin
+~git remove origin 
+}
