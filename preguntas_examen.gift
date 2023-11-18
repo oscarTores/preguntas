@@ -1,0 +1,35 @@
+Para buscar un campo similar en Python, usaremos{
+=WHERE CustomerName LIKE 'a%';
+~FROM CustomerName LIKE 'a%'
+~WHERE CustomerName = 'a%'
+~WHERE CustomerName == '%a_'
+}
+
+El comando para configurar el entorno y permitir conda en powershell{
+=conda init powershell
+~conda update powershell
+~conda create -n powershell
+~conda -V powershell
+}
+
+En una NAT{
+=El anfitrion no ve al invitado
+~El invitado no ve al anfitrion
+~Los invitados pueden verse entre si
+~Por defecto. El router virtual no es transparente
+}
+
+En git, para enviar cambios a remoto{
+=git push
+~git commit
+~git branck --track main origin
+~git remote add origin user@githu.com:user/file.git
+}
+
+Definición de PIP{
+=Package Installer for Python
+~Premium Installer for Python
+~Python Installer from Package
+~Principal Installer for Python
+}
+
