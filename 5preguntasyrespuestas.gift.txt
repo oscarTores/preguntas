@@ -1,0 +1,35 @@
+﻿1.-Selecciona la opcion correcta
+=Comando para comprobar la version de conda es conda --version
+~Comando para comprobar la version de conda es version conda
+~Comando para comprobar la version de conda es conda update
+~Comando para comprobar la version de conda es Cual es la version de conda?
+
+
+
+
+2.-Un bit tiene ____ bytes
+~10
+~6
+=8
+~12
+
+
+3.-Un superordenador va ____ años por delante de la tecnología
+~8
+=10
+~12
+~20
+
+
+4.-Selecciona la opcion correcta
+=El escalado vertical es, mejorar la calidad el servidor
+~El escalado vertical es, ir colocando uno a uno encima de otro los componentes, de ahi el nombre
+~El escalado vertical es, aumentar la cantidad de componentes
+~El escalado vertical es, una manera de acceder a archivos
+
+
+5.-El finisterrae III tiene ____ cores
+=700
+~7000
+~70
+~777
